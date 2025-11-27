@@ -9,6 +9,12 @@ A responsive and interactive landing page built with **React 19** and **GSAP** a
 * **Animations:** GSAP (GreenSock Animation Platform)
 * **Responsiveness:** React Responsive
 
+ ## 🚀 Live Demo
+
+[![Vercel App](https://img.shields.io/badge/Vercel-App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cocktails-pet.vercel.app/)
+
+Check out the live version here: [cocktails-pet.vercel.app](https://cocktails-pet.vercel.app/)
+
 ## 🚀 Getting Started
 
 Follow these steps to set up and run the project locally.
